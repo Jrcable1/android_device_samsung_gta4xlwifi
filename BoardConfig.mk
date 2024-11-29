@@ -13,6 +13,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+RELAX_USES_LIBRARY_CHECK := true
+
 DEVICE_PATH := device/samsung/gta4xlwifi
 # Init
 TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_gta4xlwifi
