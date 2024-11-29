@@ -13,6 +13,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+BUILD_BROKEN_DUP_RULES := true
+
 RELAX_USES_LIBRARY_CHECK := true
 
 DEVICE_PATH := device/samsung/gta4xlwifi
